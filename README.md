@@ -1,0 +1,1 @@
+# 🧠 Self-Replicating Programs – Quine Trio This project is a classic C programming challenge that involves writing **self-replicating programs**, also known as **quines**. The goal is to create three individual programs — **Colleen**, **Grace**, and **Sully** — each with their own rules, all of which print their own source code when executed.
