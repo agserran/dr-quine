@@ -21,7 +21,6 @@ This repository contains three classic C programming exercises involving self-re
   1. No `main()` function.  
   2. Exactly three `#define` macros.  
   3. One comment in the source.  
-  4. Execution triggered by invoking a macro (e.g. via `__attribute__((constructor))` or a custom `_start`).
 
 ### Sully
 - **Executable Name:** `Sully`  
